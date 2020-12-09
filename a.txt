@@ -5,3 +5,5 @@ Git is a configuration management tool.
 
 Github -the first update.
 Creating a new branch is quick.
+
+xiaoxie start to learn how to use git.
